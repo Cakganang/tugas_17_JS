@@ -10,6 +10,7 @@ function upperlower(){
     console.log(satu2.toUpperCase());
 }
 function KodeAscii(){
+    console.log("tugas 2");
     console.log(dua.charCodeAt(0),"-",
     dua.charCodeAt(1),"-",
     dua.charCodeAt(2),"-",
